@@ -1,0 +1,25 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "My web workflow with NPM, SASS, Gulp and More",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g3rard0/workflow.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "Git",
+    "Gulp"
+  ],
+  "author": "Gerardo Venegas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g3rard0/workflow/issues"
+  },
+  "homepage": "https://github.com/g3rard0/workflow#readme"
+}
